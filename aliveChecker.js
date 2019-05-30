@@ -45,7 +45,6 @@ while (true) {
 		wshell.AppActivate( AppName );
 		// WScript.Sleep(KEY_DELAY);
 		// wshell.SendKeys("{ENTER}");
-
 	}
 	WScript.Sleep(INTERVAL);
 }
